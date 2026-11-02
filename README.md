@@ -24,6 +24,7 @@ I build open-source tools and resources where AI agents meet web security.
 - 👀 **[fetchdiff](https://github.com/BehiSecc/fetchdiff)** - monitor remote JavaScript and web pages for changes
 - 🧰 **[chrome-suite](https://github.com/BehiSecc/chrome-suite)** - a Chrome DevTools HTTP workbench with built-in AI
 - 🧩 **[HuntProxy-Plugins](https://github.com/BehiSecc/HuntProxy-Plugins)** - plugins for HuntProxy
+- ⚡ **[fgau](https://github.com/BehiSecc/fgau)** - a fast version of gau
 
 ## Find Me
 
