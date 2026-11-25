@@ -13,9 +13,9 @@ I build open-source tools and resources where AI agents meet web security.
 ## Start Here
 
 - 📚 **[awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** (10k+ stars) - a curated list of Claude Skills
-- 🎯 **[First-Bounty](https://github.com/BehiSecc/First-Bounty)** (1.5k+ stars) - a beginner-friendly roadmap from zero experience to your first bounty
-- 🔐 **[VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill)** (1.3k+ stars) - helps Claude write secure code and prevent common vulnerabilities
-- 🕵️ **[HuntProxy](https://github.com/BehiSecc/HuntProxy)** (385 stars) - a web security workbench built for AI agents
+- 🎯 **[First-Bounty](https://github.com/BehiSecc/First-Bounty)** (1.6k+ stars) - a beginner-friendly roadmap from zero experience to your first bounty
+- 🔐 **[VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill)** (1.6k+ stars) - helps Claude write secure code and prevent common vulnerabilities
+- 🕵️ **[HuntProxy](https://github.com/BehiSecc/HuntProxy)** (400 stars) - a web security workbench built for AI agents
 
 ## More Projects
 
