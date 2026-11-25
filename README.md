@@ -25,6 +25,7 @@ I build open-source tools and resources where AI agents meet web security.
 - 🧰 **[chrome-suite](https://github.com/BehiSecc/chrome-suite)** - a Chrome DevTools HTTP workbench with built-in AI
 - 🧩 **[HuntProxy-Plugins](https://github.com/BehiSecc/HuntProxy-Plugins)** - plugins for HuntProxy
 - ⚡ **[fgau](https://github.com/BehiSecc/fgau)** - a fast version of gau
+- 📜 **[jshound](https://github.com/BehiSecc/jshound)** - explain what any JavaScript file does and extract its endpoints, RPC methods, and secrets
 
 ## Find Me
 
